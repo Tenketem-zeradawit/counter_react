@@ -1,0 +1,13 @@
+.button{
+   display: flex;
+   justify-content: space-between;
+}
+p{
+    font-size: 45px;
+    color: black;
+}
+.center{
+  
+margin-left: 600px;
+  
+}
